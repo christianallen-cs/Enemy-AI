@@ -1,0 +1,1 @@
+Created a top-down 2D game featuring enemy AI programming, designed to provide players with an engaging gaming experience. The project includes features such as player controls, enemy AI, game mechanics, and level design.
